@@ -6,4 +6,5 @@ mais uma referência
 https://github.com/EduardoMangeli/ter-a-direito/blob/main/cor-de-minha-devocao.jpg
 
 
-![cor-de-minha-devocao](https://github.com/user-attachments/assets/dce53e26-6edd-4cf4-9ec9-9cc32e481318)
+
+![cor-de-minha-devocao](https://github.com/user-attachments/assets/38798ebd-225d-47fc-aab3-3a5e38ab5b5d)
